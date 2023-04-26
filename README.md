@@ -1,3 +1,15 @@
+<p align="center">
+  <img width="40%" height="auto" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif">
+</p>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&lines=Hi%2C+I'm+Kasun+Umesh+;Software+Engineer+Student;And+Full+Stack+Developer">
+</p>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="4%">, I'm Chathurnga Lakmal</h1>
+<h3 align="center">I'm a  Full Stack Software Engineer</h3>
+
+
+
+
 # 💫 About Me:
 👋 Hi, I’m @SL-BLACK-EAGLE<br>👀 I’m interested in Software developing, Web Programming, Gaming and developing<br>🌱 I’m currently learning Full Stack Software Engineering in Java Institute of advance technology<br>💞️ I’m looking to collaborate on Full stack software developers<br>📫 How to reach me ...chathudreamshms@gmail.com
 
