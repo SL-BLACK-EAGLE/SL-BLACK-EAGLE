@@ -11,7 +11,7 @@
 
 
 # 💫 About Me:
-👋 Hi, I’m @SL-BLACK-EAGLE<br>👀 I’m interested in developing applications web and mobile<br>🌱 I’m currently learning Full Stack Software Engineering in Java Institute of advance technology<br>💞️ I’m looking to collaborate on Open-Source Projects<br>📫 How to reach me ...chathudreamshms@gmail.com<br>⚡ Fun fact **I'm lazy but smart.**
+👋 Hi, I’m Chathuranga Lakmal<br>👀 I’m interested in developing applications web and mobile<br>🌱 I’m currently learning Full Stack Software Engineering in Java Institute of advance technology<br>💞️ I’m looking to collaborate on Open-Source Projects<br>📫 How to reach me ...chathudreamshms@gmail.com<br>⚡ Fun fact **I'm lazy but smart.**
 
 
 ## 🌐 Socials:
