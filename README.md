@@ -9,7 +9,9 @@
 
 
 <a href="https://app.daily.dev/chathurangalakmal"><img src="https://api.daily.dev/devcards/f08ec28d4d0a4283a5646fd8999c0545.png?r=wtm" width="400" alt="Chathuranga Lakmal's Dev Card"/></a>
-<a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/SL-BLACK-EAGLE/SL-BLACK-EAGLE/devcard.svg" width="400" alt="Chathuranga Lakmal's Dev Card"/></a>
+<a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/SL-BLACK-EAGLE/SL-BLACK-EAGLE/blob/main/devcard.svg" width="400" alt="Chathuranga Lakmal's Dev Card"/></a>
+
+
 
 
 
