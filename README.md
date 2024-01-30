@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="40%" height="auto" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif">
+  <a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/SL-BLACK-EAGLE/SL-BLACK-EAGLE/blob/main/devcard.svg" width="400" alt="Chathuranga Lakmal's Dev Card"/></a>
 </p>
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&lines=Hi%2C+I'm+Chathuranga+Lakmal+;Software+Engineer+Student;And+Full+Stack+Developer">
@@ -8,8 +8,7 @@
 <h3 align="center">I'm a  Full Stack Software Engineer</h3>
 
 
-<a href="https://app.daily.dev/chathurangalakmal"><img src="https://api.daily.dev/devcards/f08ec28d4d0a4283a5646fd8999c0545.png?r=wtm" width="400" alt="Chathuranga Lakmal's Dev Card"/></a>
-<a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/SL-BLACK-EAGLE/SL-BLACK-EAGLE/blob/main/devcard.svg" width="400" alt="Chathuranga Lakmal's Dev Card"/></a>
+
 
 
 
