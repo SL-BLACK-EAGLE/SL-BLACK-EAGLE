@@ -8,7 +8,7 @@
 <h3 align="center">I'm a  Full Stack Software Engineer</h3>
 
 
-
+<a href="https://app.daily.dev/chathurangalakmal"><img src="https://api.daily.dev/devcards/f08ec28d4d0a4283a5646fd8999c0545.png?r=wtm" width="400" alt="Chathuranga Lakmal's Dev Card"/></a>
 
 # 💫 About Me:
 👋 Hi, I’m Chathuranga Lakmal<br>👀 I’m interested in developing applications web and mobile<br>🌱 I’m currently learning Full Stack Software Engineering in Java Institute of advance technology<br>💞️ I’m looking to collaborate on Open-Source Projects<br>📫 How to reach me ...chathudreamshms@gmail.com<br>⚡ Fun fact **I'm lazy but smart.**
@@ -31,5 +31,6 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=SL-BLACK-EAGLE&icon=5&color=9)](https://visitcount.itsvg.in)
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
